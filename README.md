@@ -1,6 +1,6 @@
 # 4bytes crawler
 
-[GitHub Actions status | Crawler](https://github.com/WcatID/4bytes/actions?workflow=Crawler)
+![Crawler](https://github.com/WcatID/4bytes/actions/workflows/crawler.yml/badge.svg)
 
 
 ## Usage
