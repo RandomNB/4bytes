@@ -1,6 +1,6 @@
 # 4bytes crawler
 
-![Crawler](https://github.com/WcatID/4bytes/actions/workflows/crawler.yml/badge.svg)
+![Crawler](https://github.com/RandomNB/4bytes/actions/workflows/crawler.yml/badge.svg)
 
 
 ## Usage
